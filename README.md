@@ -41,6 +41,8 @@ Click on the ‘Import database’ button and navigate to your work folder to se
 # Complete Installation: 
 Finally, click ‘OK’ in the Options window to finish the installation of the NSRL hashes in Autopsy.
 
+![EX - T1b](https://github.com/RAbdulsalam/df-mod4-tools/assets/167135698/ddb24f72-dd3a-47d7-8be2-d84d2ceae88b)
+
 To ensure that the NSRL hash database is up-to-date and corresponds to the version number with the highest value. 
 This process will allow Autopsy to use the imported NSRL reference hashes to enhance searching for and eliminating known OS and 
 application files during forensic analysis.
@@ -61,6 +63,7 @@ Find these, tag them, and create a hash database for these "known bad" files fou
 4. Use Autopsy to View File Types by Extension to find the images we're looking for and tag them. 
 5. Use Autopsy to Generate Report of Tagged Results in Excel format so we can easily copy the hash values of our evidence files. 
 6. Use Autopsy to create a new Tools / Option / Hash Database of these known bad (evidence) files.
+![EX - TX2a](https://github.com/RAbdulsalam/df-mod4-tools/assets/167135698/c55e7c75-9055-4b5f-91d3-ad81725beea8)
 
 ## Exercise 3: Hex Editor - Match File Remnants
 Files are stored in parts across the storage device. 
@@ -93,7 +96,8 @@ Create a folder named ex4 in your repository. In the ex4 folder:
 6. Use the upper left search bar to find Vigenère Decode - and drag it to the Recipe area.
 7. Enter your key word (the same one) to use for decrypting.
 8. Use your tool to decrypt nothing.txt and save the recovered message as recovered.txt.
-   
+![Ex4-3](https://github.com/RAbdulsalam/df-mod4-tools/assets/167135698/9a92cd32-d8ab-498e-b76f-d313ad054343)
+
 Bit manipulation, such as bit shifting, is a fundamental technique in digital forensics (DF) 
 for analyzing and recovering evidence from digital data. 
 It allows investigators to uncover hidden information and understand encryption methods used to conceal data. 
