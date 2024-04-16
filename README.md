@@ -75,6 +75,9 @@ It also enhances understanding of file systems and hex editing tools.
 1.	Create Document: Generate a Word document.
 2.	Hash Calculation: Use a hex editor to calculate the SHA-256 hash value and verify with PowerShell.
 3.	Analyze Remnants: Open a specific document and calculate the hash value for the first sector using a hex editor.
+![EX3 - T1c](https://github.com/RAbdulsalam/df-mod4-tools/assets/167135698/40d96550-3f3e-4ebf-a43e-8e10702b56db)
+
+![EX3 - T1d](https://github.com/RAbdulsalam/df-mod4-tools/assets/167135698/656ef8ea-9e87-4738-81d0-b42211506189)
 
 This exercise is beneficial for those interested in cybersecurity and digital forensics. 
 It provides practical experience with tools like hex editors and deepens the understanding of how operating systems handle file storage and deletion. 
