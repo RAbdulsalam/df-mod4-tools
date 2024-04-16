@@ -1,0 +1,6 @@
+Input:
+https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Encode('SECRET')&input=TWVldCBtZSBhdCB0aGUgcGFyay4
+
+Recovered:
+
+https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('SECRET')&input=RWlnayBxeCBzeCB2eWkgaXN2bS4
